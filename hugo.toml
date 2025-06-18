@@ -1,5 +1,6 @@
-baseURL = 'https://thatalexguy.dev'
+baseURL = 'https://thatalexguy.dev/'
 languageCode = 'en-us'
+canonifyURLs = true
 title = 'Alex White'
 [caches]
   [caches.images]
