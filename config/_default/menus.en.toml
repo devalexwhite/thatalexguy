@@ -5,7 +5,19 @@ none = "none"
 name = "About"
 pageRef = "/about-me"
 identifier = "qFeYxRrNOQ"
-weight = 9_999
+weight = 1
+
+[[main]]
+name = "Now"
+pageRef = "/now"
+identifier = "PcXqW0vrLd"
+weight = 2
+
+[[main]]
+name = "🍂 BookLeaf"
+url = "https://bookleaf.dev"
+identifier = "QHXpp452MW"
+weight = 3
 
 [[footer]]
 none = "none"
