@@ -1,6 +1,0 @@
-baseURL = 'https://thatalexguy.dev'
-languageCode = 'en-us'
-title = 'Alex White'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
