@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex White</title>
-    <link>https://thatalexguy.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Alex White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Alex White</copyright>
-    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thatalexguy.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New Blog</title>
-      <link>https://thatalexguy.dev/posts/061725-new-site/</link>
+      <link>http://localhost:1313/posts/061725-new-site/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://thatalexguy.dev/posts/061725-new-site/</guid>
+      <guid>http://localhost:1313/posts/061725-new-site/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://thatalexguy.dev/posts/061725-new-site/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/061725-new-site/featured.jpg" />
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://thatalexguy.dev/about-me/</link>
+      <link>http://localhost:1313/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thatalexguy.dev/about-me/</guid>
+      <guid>http://localhost:1313/about-me/</guid>
       <description></description>
       
     </item>
