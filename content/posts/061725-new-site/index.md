@@ -24,3 +24,5 @@ I have a few simple requirements, and Hugo + Blowfish met them all:
 ---
 
 That's it, the start of something that will (hopefully) be around for quite awhile. Let me know if you like it, always feel free to [email me](mailto:alex.white@hey.com).
+
+Peace!
