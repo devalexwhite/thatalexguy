@@ -14,10 +14,15 @@ identifier = "PcXqW0vrLd"
 weight = 2
 
 [[main]]
+name = "What I Use"
+pageRef = "/what-i-use"
+weight = 3
+
+[[main]]
 name = "🍂 BookLeaf"
 url = "https://bookleaf.dev"
 identifier = "QHXpp452MW"
-weight = 3
+weight = 4
 
 [[footer]]
 none = "none"
