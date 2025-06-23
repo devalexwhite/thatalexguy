@@ -63,6 +63,8 @@ The hardware and software I use in my daily life.
 
 - [Blanket](https://github.com/rafaelmardojai/blanket)
 - [GIMP](https://www.gimp.org/)
+- [Pandoc](https://pandoc.org/)
+- [Presenterm](https://github.com/mfontanini/presenterm)
 
 ### Programming Languages
 
