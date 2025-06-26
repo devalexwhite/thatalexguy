@@ -2,27 +2,32 @@
 none = "none"
 
 [[main]]
+name = "Blog"
+pageRef = "/posts"
+weight = 1
+
+[[main]]
 name = "About"
 pageRef = "/about-me"
 identifier = "qFeYxRrNOQ"
-weight = 1
+weight = 2
 
 [[main]]
 name = "Now"
 pageRef = "/now"
 identifier = "PcXqW0vrLd"
-weight = 2
+weight = 3
 
 [[main]]
 name = "What I Use"
 pageRef = "/what-i-use"
-weight = 3
+weight = 4
 
 [[main]]
 name = "🍂 BookLeaf"
 url = "https://bookleaf.dev"
 identifier = "QHXpp452MW"
-weight = 4
+weight = 5
 
 [[footer]]
 none = "none"
