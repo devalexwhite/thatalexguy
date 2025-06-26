@@ -2,19 +2,19 @@ colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = true
 enableSearch = true
-enableCodeCopy = false
-replyByEmail = false
+enableCodeCopy = true
+replyByEmail = true
 disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-firebase = { }
-fathomAnalytics = { }
-umamiAnalytics = { }
-selineAnalytics = { }
-buymeacoffee = { }
-verification = { }
-rssnext = { }
+firebase = {}
+fathomAnalytics = {}
+umamiAnalytics = {}
+selineAnalytics = {}
+buymeacoffee = {}
+verification = {}
+rssnext = {}
 defaultBackgroundImage = "bikes.jpg"
 smartTOC = true
 
@@ -82,7 +82,7 @@ cardViewScreenWidth = false
 constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
