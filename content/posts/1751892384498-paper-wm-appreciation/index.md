@@ -47,3 +47,5 @@ If you run GNOME 3, simply [install the PaperWM extension](https://extensions.gn
 Not on GNOME 3? No problem! You can download [niri](https://github.com/YaLTeR/niri), a "scrollable-tiling Wayland compositor" inspired by PaperWM. This is a full Wayland desktop environment that you will select on login.
 
 If you do give PaperWM a try, and want to geek out about how cool it is, send me an email!
+
+{{< reactbar slug="thatalexguy.dev686c30915b957">}}
